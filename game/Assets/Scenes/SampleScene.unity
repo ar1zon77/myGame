@@ -672,7 +672,7 @@ Transform:
   m_GameObject: {fileID: 1122100418}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10.43, y: -221.16, z: -8.421025}
+  m_LocalPosition: {x: 11.23, y: -221.1, z: -8.421025}
   m_LocalScale: {x: 0.08753413, y: -39.13185, z: 1.7955}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -719,8 +719,8 @@ Transform:
   m_GameObject: {fileID: 1147664610}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.94, y: -0.69, z: 10.020707}
-  m_LocalScale: {x: 4.0456176, y: 4, z: 0.67582405}
+  m_LocalPosition: {x: -0.6592, y: -0.9914, z: 10.020707}
+  m_LocalScale: {x: 5.65011, y: 5.5864, z: 0.9438559}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 519420032}
@@ -797,7 +797,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.030344255, y: 0.00047966838}
+  m_Offset: {x: -0.030344255, y: -0.0027776137}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -808,7 +808,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.23869543, y: 0.39194077}
+  m_Size: {x: 0.23869543, y: 0.38542622}
   m_EdgeRadius: 0
 --- !u!212 &1147664615
 SpriteRenderer:
@@ -934,7 +934,7 @@ Transform:
   m_GameObject: {fileID: 1440981419}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -16.69, y: 4.9, z: -8.421025}
+  m_LocalPosition: {x: -17.43, y: 4.9, z: -8.421025}
   m_LocalScale: {x: 1.7955, y: 1.7955, z: 1.7955}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1002,7 +1002,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -2.1396186, y: -1.1063334}
+  m_Offset: {x: -2.1396189, y: -1.7052938}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -1013,7 +1013,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 11.305769, y: 3.2126672}
+  m_Size: {x: 11.305769, y: 1.0428488}
   m_EdgeRadius: 0
 --- !u!4 &1658805999
 Transform:
